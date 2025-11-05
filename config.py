@@ -6,3 +6,4 @@ THRESHOLD = 0.85
 IMAGE_SIZE = 224
 DEVICE = "cpu"
 DATA_DIR = "images"
+MODEL_PATH = "best_resnet_medical_classifier.pth"
