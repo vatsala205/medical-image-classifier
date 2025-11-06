@@ -42,3 +42,4 @@ if __name__ == "__main__":
     prediction, confidence = classify_image(img_path)
     print(f"Prediction: {prediction}")
     print(f"Confidence: {confidence:.2f}")
+
